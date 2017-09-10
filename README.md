@@ -10,7 +10,11 @@ It is trained on
 
 ## Loss after 80 epochs
 1.2390
-![alt text](http:https://i.imgur.com/2E2QFAj.jpg)
+
+## Almost melted the laptop
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/2E2QFAj.jpg">
+</p>
 
 ## Results
 
