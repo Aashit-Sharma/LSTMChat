@@ -8,10 +8,13 @@ It is trained on
 2) The Lord Of The Rings - The Two Towers [https://archive.org/stream/TheLordOfTheRing1TheFellowshipOfTheRing/The%20Lord%20Of%20The%20Ring%202-The%20Two%20Towers_djvu.txt]
 
 
+## Loss after 80 epochs
+1.2390
+![alt text](http:https://i.imgur.com/2E2QFAj.jpg)
+
 ## Results
 
 '''
-
 It is said that there are still castles of the High Elves
 I had seen the pleasure of a sergeant that it was not once to be a lately and table for a muscular. Hunder they were sure of himself thickly was impendented in this man with him. He came to the door, and then to send all the room.
 
